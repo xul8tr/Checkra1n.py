@@ -19,7 +19,7 @@ while True:
 	#os.system("dir")
 	#os.system("python ipwndfu")
 	elif choice == "3":
-		print("https://github.com/sakurai07/checkra1n.py")
+		print("https://github.com/xul8tr/checkra1n.py")
 	elif choice == "4":
 		print("Go to the github repository or check README.md")
 	elif choice == "0":
