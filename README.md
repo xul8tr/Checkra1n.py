@@ -4,7 +4,7 @@
 well it's checkm8 only
 
 # Testers
-<a href= https://github.com/Sakurai07/Checkra1n.py/blob/main/testers.md>Testers</a>
+<a href= https://github.com/xul8tr/Checkra1n.py/blob/main/testers.md>Testers</a>
 
 # RUN ALL OF THIS USING ADMIN COMMAND PROMPT
 
@@ -30,7 +30,7 @@ For webra1n (css + html to come soon) cd to the folder and type `python index.py
 
 # Installation:
 ```
-git clone https://github.com/Sakurai07/Checkra1n.py/
+git clone https://github.com/xul8tr/Checkra1n.py/
 cd Checkra1n.py
 python main.py
 ```
